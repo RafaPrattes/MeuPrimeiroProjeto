@@ -7,3 +7,8 @@ Para a implementação, utilizei uma estrutura de dados que armazena informaçõ
 Além da funcionalidade básica, planejo expandir o projeto para incluir avaliações e comentários, permitindo que os usuários compartilhem suas experiências e feedback sobre as recomendações recebidas. Também estou considerando adicionar uma funcionalidade de busca, que permitirá aos usuários encontrarem recomendações específicas.
 
 Esse projeto não apenas me permitiu aplicar meus conhecimentos em lógica de programação, mas também me desafiou a pensar sobre como criar uma interação amigável e significativa para os usuários. Estou animada para continuar desenvolvendo e aprimorando o sistema!
+
+
+## Detalhes do Projeto
+Este projeto é um sistema de recomendação de livros e filmes baseado no gênero preferido do usuário.
+A aplicação permite ao usuário escolher entre diferentes gêneros e obter recomendações adequadas.
