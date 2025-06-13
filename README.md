@@ -38,7 +38,7 @@ Estrutura simples e clara para manipular dados de títulos
 ## ✨ Objetivos do Projeto
 Aplicar conceitos de POO e lógica de programação em Java, desenvolvendo uma solução simples, útil e personalizada para os usuários.
 
-👩‍💻
+## 👩‍💻
 
 <div align="center">
 
